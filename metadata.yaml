@@ -1,0 +1,48 @@
+_repo: Dolores-parka-b-Andalusialainen-kertomus_75495
+_version: 0.0.1
+alternative_title: Pobre Dolores! Finnish
+contributor:
+  translator:
+    agent_name: Anttila, Selma
+    aliases:
+    - Andelin, Selma
+    - Helander, Selma
+    birthdate: 1867
+    deathdate: 1942
+    gutenberg_agent_id: '43058'
+    url: http://www.gutenberg.org/2009/agents/43058
+    wikipedia: https://fi.wikipedia.org/wiki/Selma_Anttila
+creator:
+  author:
+    agent_name: Caballero, Fernán
+    aliases:
+    - Caballero, Fernan
+    - De Faber y Larrea, Cecilia Francisca Josefa Bohl
+    - De Faber y Larrea, Cecilia Francisca Josefa Böhl
+    birthdate: 1796
+    deathdate: 1877
+    gutenberg_agent_id: '7378'
+    url: http://www.gutenberg.org/2009/agents/7378
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Fern%C3%A1n_Caballero
+    - https://es.wikipedia.org/wiki/Fern%C3%A1n_Caballero
+description: ''
+gutenberg_issued: '2025-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75495'
+language: fi
+pgterms:marc905: 20241022093825caballero
+pgterms:marc906: '1920'
+pgterms:marc907: FI
+production_note: Tuula Temonen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish fiction -- Translations into Finnish'
+- !lcc 'PQ'
+- GITenberg
+title: 'Dolores parka! : $b Andalusialainen kertomus'
+url: http://www.gutenberg.org/ebooks/75495
