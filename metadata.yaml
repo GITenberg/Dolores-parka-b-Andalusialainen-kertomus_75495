@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '43058'
     url: http://www.gutenberg.org/2009/agents/43058
     wikipedia: https://fi.wikipedia.org/wiki/Selma_Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Caballero, Fernán
@@ -27,6 +30,8 @@ creator:
     - https://en.wikipedia.org/wiki/Fern%C3%A1n_Caballero
     - https://es.wikipedia.org/wiki/Fern%C3%A1n_Caballero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75495#Dolores-parka-b-Andalusialainen-kertomus
 gutenberg_issued: '2025-03-01'
 gutenberg_type: Text
 identifiers:
